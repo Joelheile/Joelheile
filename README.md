@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Joël :)
 
-- 🔭 Building **[YBudget](https://ybudget.de)** — open-source budget management for German NGOs
+- 🔭 Building **[YBudget](https://ybudget.de)**: open-source budget management for German NGOs
 - 🧠 Currently exploring **applied ML, LLMs, and AI agents**
-- 🚀 Co-Founded **[Young Founders Network](https://youngfounders.network)** — 1,500+ members, 15+ chapters, flagship events with 750+ founders, investors & builders
+- 🚀 Co-Founded **[Young Founders Network](https://youngfounders.network)**: 1,500+ members, 15+ chapters, flagship events with 750+ founders, investors & builders
 - ✍️ Writing at **[joel.heilesco.bar](https://joel.heilesco.bar)**
 
 ## 🛠️ Tech Stack
