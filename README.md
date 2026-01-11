@@ -33,22 +33,11 @@
 | [**Rememberry**](https://github.com/rememberry-io/rememberry) | Flashcard-based mind-map app for spaced repetition | Next.js, tRPC, Drizzle, PostgreSQL |
 | [**Runningfinder**](https://github.com/Joelheile/Runningfinder) | Platform connecting runners with local running clubs | Next.js, Drizzle, Google Maps API |
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="githubstats-ten-tau.vercel.app/api?username=Joelheile&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Joël's GitHub Stats" />
-</p>
+[![Joël's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=joelheile)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="githubstats-ten-tau.vercel.app/?user=Joelheile&theme=dark&hide_border=true&background=0d1117" alt="Joël's GitHub Streak" />
-</p>
 
-[![Anurag's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=joelheile)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img src="githubstats-ten-tau.vercel.app/api/top-langs/?username=Joelheile&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-## 📫 Let's Connect
+## Happy to connect :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-heil-escobar/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/joelheile)
