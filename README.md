@@ -34,7 +34,7 @@
 | [**Runningfinder**](https://github.com/Joelheile/Runningfinder) | Platform connecting runners with local running clubs | Next.js, Drizzle, Google Maps API |
 
 
-[![Joël's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=joelheile)](https://github.com/anuraghazra/github-readme-stats)
+[![Joël's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=joelheile&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Happy to connect :)
