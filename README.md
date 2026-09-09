@@ -1,49 +1,30 @@
-# 👋 Hey, I'm Joël :)
+# hi, i'm joël :)
 
-- 🔭 Building **[YBudget](https://ybudget.de)**: open-source budget management for German NGOs
-- 🧠 Currently exploring **applied ML, LLMs, and AI agents**
-- 🚀 Co-Founded **[Young Founders Network](https://youngfounders.network)**: 1,800+ members, 15+ chapters, flagship events with 750+ founders, investors & builders
-- ✍️ Writing at **[joels.tech](https://joel.heilescobar.de)**
+i'm a software engineer and love building communities.
 
-## 🛠️ Tech Stack
-**Current Daily Drivers**
+i've built web apps with react and typescript, mobile apps with react native and swiftui, and mac apps with swift, electron and tauri. on the side i also did ml, automation and smart home in python, along with a few other things i've probably forgotten.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+more at [joels.tech](https://joels.tech).
 
-**Also Work With**
+## projects out in the world
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-FF6B6B?style=flat&logo=convex&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+- **AI meeting notetaker**: desktop app that transcribes, summarizes and searches your calls without a bot joining, with MCPs and custom templates
+- **[Bernie Bouncer](https://apps.apple.com/de/app/app-blocker-bernie-bouncer/id6793184858)**: app blocker with AI negotiation to reduce screen time
+- **Commis**: automated comment reporting for TikTok campaigns
+- **Lore**: market research software for brand teams and agencies
+- **[YBudget](https://ybudget.de)**: open source budget and team management for german associations
+- **[TreeMatch](https://treematch.vercel.app/)**: a directory of every student in Stanford Summer Session, searchable by skills, courses and interests
+- **[FaktenChecken](https://www.fakten-checken.de/)**: free TikTok fact checker for kids and teens
+- **HiCarla**: AI phone agents for car dealerships and doctors' practices
+- **[Runningfinder](https://clubhub-blush.vercel.app)**: a map for finding running clubs and events in berlin
+- **[Rememberry](https://github.com/rememberry-io/rememberry)**: flashcards and mind maps in one tool
 
-## 🚀 Projects
+## a little background
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**YBudget**](https://ybudget.de) | Open-source budget management for German associations to finally move on from quircky Excel sheets | Next.js, Convex, TypeScript, Vitest, Playwright |
-| [**Rememberry**](https://github.com/rememberry-io/rememberry) | Flashcard-based mind-map app for spaced repetition | Next.js, tRPC, Drizzle, PostgreSQL |
-| [**Runningfinder**](https://github.com/Joelheile/Runningfinder) | Platform connecting runners with local running clubs | Next.js, Drizzle, Google Maps API |
+i started a yt channel at 10. minecraft mods and tech reviews, mostly. at 14, i started a web dev and video agency. then i got bored, did ecom and pretty much everything else to make money online.
 
+i studied computer science at [CODE University](https://code.berlin) and [Stanford](https://www.stanford.edu).
 
-[![Joël's GitHub stats](https://githubstats-ten-tau.vercel.app/api?username=joelheile&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+at 16, i met other kids my age on linkedin who were building startups. together we started the [Young Founders Network](https://youngfounders.network), germany's largest community for founders under 25. today we have over 2,200 members, 100+ volunteers and €250k+ raised for entrepreneurial education.
 
-
-## Happy to connect :)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-heil-escobar/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/joelheile)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://joel.heilesco.bar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joel.heil-escobar@code.berlin)
+[email](mailto:joel@cinoramic.io) [linkedin](https://www.linkedin.com/in/joel-heil-escobar/) [github](https://github.com/joelheile) [x](https://x.com/joelheile)
