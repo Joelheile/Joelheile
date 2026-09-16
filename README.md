@@ -22,4 +22,4 @@ before all that i co-founded the [Young Founders Network](https://youngfounders.
 
 full stories, essays and the rest at [joels.tech](https://joels.tech).
 
-[email](mailto:joel@heilescobar.de) [linkedin](https://www.linkedin.com/in/joel-heil-escobar/) [x](https://x.com/joelheile)
+[linkedin](https://www.linkedin.com/in/joel-heil-escobar/) [x](https://x.com/joelheile)
