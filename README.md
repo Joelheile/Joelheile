@@ -11,10 +11,15 @@ founder and product engineer in berlin and sf. studied cs at [CODE](https://code
 - **AI meeting notetaker** at a stealth consumer studio in sf
   - bot-free desktop app that transcribes, summarizes and searches your calls, built the mac and windows app
   - idea to shipped product in two weeks, 200 paying customers and $4k revenue after four weeks, 800 users after six
-- **Lore**: market research for brand teams, sold to [PlayTheHype](https://www.playthehype.com)
-  - pipeline where Gemini watches every tiktok and instagram video, analyzed 1.2M+ videos for nike and mastercard
-  - insight and chat agents on ClickHouse, plus an MCP endpoint so coding agents can drive Lore
-- **[PlayTheHype](https://www.playthehype.com)**: built **Commis**, an internal tool that automates weekly comment reports for tiktok campaigns
+- **[PlayTheHype](https://www.playthehype.com)**: built two products with my team
+  - **Lore**: market research for brand teams on what people say about their brand on tiktok and instagram
+    - a discovery agent picks what to scrape, Gemini watches every video, claims and themes land in ClickHouse
+    - analyzed 1.2M+ videos for nike and mastercard, nike football germany and nike HQ saw it and liked it
+    - insight agent with every insight traced back to its source post, a chat agent that keeps each brand's strategy doc current, an MCP endpoint so coding agents can drive Lore without the UI
+  - **Commis**: comment reporting for tiktok campaigns, replaced a weekly copy and paste into excel
+    - scrapes likes, replies and reach on every tracked comment automatically
+    - telegram bot: send it a comment link and it tracks that comment from then on
+    - bulk sync of tiktok comment exports, campaign reports per account and client generated at the end
 - **[Pro & Me](https://proandme.de)**: finance and workflow automation for a tiktok agency
   - finance systems that outlived my time there, 3.7M+ tiktok views on the campaigns
 - **[Young Founders Network](https://youngfounders.network)**: co-founder
