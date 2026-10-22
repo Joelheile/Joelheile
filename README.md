@@ -12,6 +12,13 @@ founder and product engineer in berlin and sf, studied cs at [CODE](https://code
 - **web dev and video agency**: founded at 14, made €20k+ while still in high school
 - also tried voice agents for car dealerships and an AI that plans group trips
 
+**stack**
+
+- typescript, swift, python
+- react, next.js, vite, tanstack, tailwind, shadcn, expo / react native, electron
+- hono, trpc, supabase, postgres, drizzle, convex, clickhouse
+- cloudflare workers, vercel, docker, github actions, posthog
+
 **side projects**
 
 - **[voz](https://github.com/Joelheile/voz)**: free, offline dictation for mac, talk and the text appears where you type
