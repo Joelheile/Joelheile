@@ -6,7 +6,8 @@ currently building **[Attacal](https://attacal.com)**: AI agents that attack you
 
 **experience**
 
-- **stealth sf consumer studio**, full stack engineer: owned the whole app, a bot-free AI meeting notetaker for mac and windows
+- **stealth sf consumer studio**, full stack engineer: owned a bot-free AI meeting notetaker for mac and windows end to end
+  - shipped features with customers, ran support, infra, deployment and analytics
   - idea to launch in 2 weeks, 200 paying customers and $4k revenue in 4 weeks, 800 users in 6
 - **[PlayTheHype](https://www.playthehype.com)**, entrepreneur in residence: built new products and internal tools
   - **Lore**: AI market research on tiktok and instagram, 1.2M+ videos analyzed for nike and mastercard
