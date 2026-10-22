@@ -15,7 +15,7 @@ currently building **[Attacal](https://attacal.com)**: AI agents that attack you
 - **[Pro & Me](https://proandme.de)**, founders associate: new business opportunities and business development for a tiktok agency
   - built the finance, productivity and fulfillment automations, stepped in as pm when needed, 3.7M+ views on the campaigns
 - **[Young Founders Network](https://youngfounders.network)**, co-founder at 16: built germany's largest community for founders under 25
-  - 2,200+ members, 5 to 100+ volunteers, €350k+ raised for entrepreneurial education, 1,000 person conference in munich
+  - 2,200+ members, 5 to 100+ volunteers, €350k+ raised for entrepreneurial education
 - **Cinoramic**, founder at 14: freelance web dev studio, €20k+ revenue while still in school
 
 **notable projects**
