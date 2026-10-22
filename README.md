@@ -1,6 +1,6 @@
 ### hi, i'm joël
 
-founder and product engineer in berlin and sf. studied cs at [CODE](https://code.berlin) and [stanford](https://www.stanford.edu). more on [joels.tech](https://joels.tech)
+founder and product engineer in berlin and sf. studied cs at [CODE](https://code.berlin) and [Stanford](https://www.stanford.edu). more on [joels.tech](https://joels.tech)
 
 building **[Attacal](https://attacal.com)**: AI agents that attack your app every day and open a pull request for every hole they find
 
