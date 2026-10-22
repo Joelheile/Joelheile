@@ -27,6 +27,11 @@ building **[Attacal](https://attacal.com)**: AI agents that attack your app ever
 <details>
 <summary>other projects</summary>
 
+2025
+
+- **[TreeMatch](https://github.com/Joelheile/treematch)**: directory of stanford summer session students by skills and courses, 60 students joined, course teams formed through it ([live](https://treematch.joels.tech))
+- **HiCarla**: AI phone agents for car dealerships and doctors' practices
+
 2024
 
 - **[Running Finder](https://github.com/Joelheile/Runningfinder)**: map of running clubs and events in berlin, built solo
