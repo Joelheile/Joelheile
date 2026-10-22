@@ -6,16 +6,16 @@ building **[Attacal](https://attacal.com)**: AI agents that attack your app ever
 
 **experience**
 
-- **stealth consumer studio, sf** · engineer: built a bot-free AI meeting notetaker for mac and windows
+- **stealth consumer studio in sf**, engineer: built a bot-free AI meeting notetaker for mac and windows
   - idea to launch in 2 weeks, 200 paying customers and $4k revenue in 4 weeks, 800 users in 6
-- **[PlayTheHype](https://www.playthehype.com)** · entrepreneur in residence: built new products and internal tools
+- **[PlayTheHype](https://www.playthehype.com)**, entrepreneur in residence: built new products and internal tools
   - **Lore**: AI market research on tiktok and instagram, 1.2M+ videos analyzed for nike and mastercard
   - **Commis**: tiktok comment reporting with auto scraping, a telegram bot and bulk sync, killed the weekly excel copy and paste
-- **[Young Founders Network](https://youngfounders.network)** · co-founder at 16: built germany's largest community for founders under 25
+- **[Young Founders Network](https://youngfounders.network)**, co-founder at 16: built germany's largest community for founders under 25
   - 2,200+ members, 5 to 100+ volunteers, €350k+ raised for entrepreneurial education, 1,000 person conference in munich
-- **[Pro & Me](https://proandme.de)** · founders associate: new business opportunities and business development for a tiktok agency
+- **[Pro & Me](https://proandme.de)**, founders associate: new business opportunities and business development for a tiktok agency
   - built the finance, productivity and fulfillment automations, stepped in as pm when needed, 3.7M+ views on the campaigns
-- **Cinoramic** · founder at 14: freelance web dev studio, €20k+ revenue while still in school
+- **Cinoramic**, founder at 14: freelance web dev studio, €20k+ revenue while still in school
 
 **notable projects**
 
@@ -59,4 +59,4 @@ earlier
 - hono, trpc, supabase, postgres, drizzle, convex, clickhouse
 - cloudflare workers, vercel, docker, github actions, posthog
 
-[joels.tech](https://joels.tech) · [x](https://x.com/joelheile) · [linkedin](https://www.linkedin.com/in/joel-heil-escobar/) · [email](mailto:joel@heilescobar.de)
+find me on [joels.tech](https://joels.tech), [x](https://x.com/joelheile), [linkedin](https://www.linkedin.com/in/joel-heil-escobar/) or by [email](mailto:joel@heilescobar.de)
