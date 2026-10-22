@@ -11,11 +11,11 @@ founder and product engineer in berlin and sf. studied cs at [CODE](https://code
 - **AI meeting notetaker** at a stealth consumer studio in sf
   - bot-free desktop app that transcribes, summarizes and searches your calls, built the mac and windows app
   - idea to shipped product in two weeks, 200 paying customers and $4k revenue after four weeks, 800 users after six
-- **Lore**: market research for brand teams, built as entrepreneur in residence at PlayTheHype
+- **Lore**: market research for brand teams, sold to [PlayTheHype](https://www.playthehype.com)
   - pipeline where Gemini watches every tiktok and instagram video, analyzed 1.2M+ videos for nike and mastercard
   - insight and chat agents on ClickHouse, plus an MCP endpoint so coding agents can drive Lore
+- **[PlayTheHype](https://www.playthehype.com)**: built **Commis**, an internal tool that automates weekly comment reports for tiktok campaigns
 - **[Pro & Me](https://proandme.de)**: finance and workflow automation for a tiktok agency
-  - built **Commis**, an internal tool that automates weekly comment reports for tiktok campaigns
   - finance systems that outlived my time there, 3.7M+ tiktok views on the campaigns
 - **[Young Founders Network](https://youngfounders.network)**: co-founder
   - germany's largest community for founders under 25, co-founded at 16
